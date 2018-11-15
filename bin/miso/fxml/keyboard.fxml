@@ -1,0 +1,259 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import com.jfoenix.controls.JFXButton?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import miso.component.pref.VirtualKey?>
+
+
+<AnchorPane prefHeight="399.0" prefWidth="714.0" xmlns="http://javafx.com/javafx/10.0.1" xmlns:fx="http://javafx.com/fxml/1">
+   <children>
+      <VirtualKey layoutX="14.0" layoutY="14.0" prefHeight="53.0" prefWidth="60.0" text="F1">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="80.0" layoutY="14.0" prefHeight="53.0" prefWidth="60.0" text="F2">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="147.0" layoutY="14.0" prefHeight="53.0" prefWidth="60.0" text="F3">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="215.0" layoutY="14.0" prefHeight="53.0" prefWidth="60.0" text="F4">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="281.0" layoutY="14.0" prefHeight="53.0" prefWidth="60.0" text="F5">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="347.0" layoutY="14.0" prefHeight="53.0" prefWidth="60.0" text="F6">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="414.0" layoutY="14.0" prefHeight="53.0" prefWidth="60.0" text="F7">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="480.0" layoutY="14.0" prefHeight="53.0" prefWidth="60.0" text="F8">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="548.0" layoutY="14.0" prefHeight="53.0" prefWidth="60.0" text="F9">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="23.0" layoutY="323.0" prefHeight="53.0" prefWidth="93.0" text="Ctrl">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="124.0" layoutY="323.0" prefHeight="53.0" prefWidth="79.0" text="Alt">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="31.0" layoutY="260.0" prefHeight="53.0" prefWidth="119.0" text="Shift">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      
+  <!--    <VirtualKey layoutX="217.0" layoutY="323.0" prefHeight="53.0" prefWidth="402.0" text="Space bar">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+        -->
+      <VirtualKey layoutX="24.0" layoutY="135.0" prefHeight="53.0" prefWidth="60.0" text="q">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="90.0" layoutY="135.0" prefHeight="53.0" prefWidth="60.0" text="w">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="157.0" layoutY="135.0" prefHeight="53.0" prefWidth="60.0" text="e">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="225.0" layoutY="135.0" prefHeight="53.0" prefWidth="60.0" text="r">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="291.0" layoutY="135.0" prefHeight="53.0" prefWidth="60.0" text="t">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="357.0" layoutY="135.0" prefHeight="53.0" prefWidth="60.0" text="y">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="424.0" layoutY="135.0" prefHeight="53.0" prefWidth="60.0" text="u">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="490.0" layoutY="135.0" prefHeight="53.0" prefWidth="60.0" text="i">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="558.0" layoutY="135.0" prefHeight="53.0" prefWidth="60.0" text="o">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="628.0" layoutY="135.0" prefHeight="53.0" prefWidth="60.0" text="p">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="55.0" layoutY="197.0" prefHeight="53.0" prefWidth="60.0" text="a">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="121.0" layoutY="197.0" prefHeight="53.0" prefWidth="60.0" text="s">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="188.0" layoutY="197.0" prefHeight="53.0" prefWidth="60.0" text="d">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="256.0" layoutY="197.0" prefHeight="53.0" prefWidth="60.0" text="f">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="322.0" layoutY="197.0" prefHeight="53.0" prefWidth="60.0" text="g">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="388.0" layoutY="197.0" prefHeight="53.0" prefWidth="60.0" text="h">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="455.0" layoutY="197.0" prefHeight="53.0" prefWidth="60.0" text="j">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="521.0" layoutY="197.0" prefHeight="53.0" prefWidth="60.0" text="k">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="589.0" layoutY="197.0" prefHeight="53.0" prefWidth="60.0" text="l">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="175.0" layoutY="260.0" prefHeight="53.0" prefWidth="60.0" text="z">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="241.0" layoutY="260.0" prefHeight="53.0" prefWidth="60.0" text="x">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="308.0" layoutY="260.0" prefHeight="53.0" prefWidth="60.0" text="c">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="376.0" layoutY="260.0" prefHeight="53.0" prefWidth="60.0" text="v">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="442.0" layoutY="260.0" prefHeight="53.0" prefWidth="60.0" text="b">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="508.0" layoutY="260.0" prefHeight="53.0" prefWidth="60.0" text="n">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="575.0" layoutY="260.0" prefHeight="53.0" prefWidth="60.0" text="m">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="23.0" layoutY="75.0" prefHeight="53.0" prefWidth="60.0" text="1">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="89.0" layoutY="75.0" prefHeight="53.0" prefWidth="60.0" text="2">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="156.0" layoutY="75.0" prefHeight="53.0" prefWidth="60.0" text="3">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="224.0" layoutY="75.0" prefHeight="53.0" prefWidth="60.0" text="4">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="290.0" layoutY="75.0" prefHeight="53.0" prefWidth="60.0" text="5">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="356.0" layoutY="75.0" prefHeight="53.0" prefWidth="60.0" text="6">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="423.0" layoutY="75.0" prefHeight="53.0" prefWidth="60.0" text="7">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="489.0" layoutY="75.0" prefHeight="53.0" prefWidth="60.0" text="8">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="557.0" layoutY="75.0" prefHeight="53.0" prefWidth="60.0" text="9">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+      <VirtualKey layoutX="619.0" layoutY="75.0" prefHeight="53.0" prefWidth="60.0" text="0">
+         <font>
+            <Font name="Consolas" size="25.0" />
+         </font>
+      </VirtualKey>
+   </children>
+</AnchorPane>

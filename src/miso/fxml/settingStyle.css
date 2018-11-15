@@ -1,0 +1,36 @@
+.background {
+   -fx-background-color: transparent;
+} 
+
+.text-field {
+    -fx-font-style: 18.0px Consolas, bold;
+}
+#pane{
+	-fx-background-color: white;
+    -fx-background-radius:64.0px;
+	-fx-border-radius:64.0px;
+	-fx-border-width:6.0px;
+  	-fx-border-color: #e2e2e2;
+}
+.button {
+    -fx-padding: 5.0 10.0 5.0 10.0;
+    -fx-background-radius:64.0px;
+	-fx-border-radius:64.0px;
+   	-fx-border-width:6.0px;
+  	-fx-border-color: #e2e2e2;
+    -fx-background-color: white;
+}
+
+
+.button:default {
+   -fx-background-color: white;
+    -fx-text-fill: #ffffff;
+}
+
+#ocrPane{
+   -fx-background-color: white;
+    -fx-background-radius:64.0px;
+   -fx-border-radius:64.0px;
+   -fx-border-width:6.0px;
+     -fx-border-color: #e2e2e2;
+}

@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.fx.ide.jdt.core.JAVAFX_CONTAINER"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/jfoenix.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/system-hook-3.2.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/commons-beanutils-1.9.2.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/commons-io-2.6.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/fontbox-2.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/ghost4j-1.0.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/itext-2.1.7.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/jai-imageio-core-1.4.0.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/jbig2-imageio-3.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/jboss-vfs-3.2.12.Final.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/jcl-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/jul-to-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/lept4j-1.6.4.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/log4j-over-slf4j-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/logback-classic-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/logback-core-1.2.3.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/pdfbox-2.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/pdfbox-tools-2.0.9.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/slf4j-api-1.7.25.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/tess4j-3.2.1.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/tess4j-3.4.8.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/ocr/xmlgraphics-commons-1.5.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/JSON&amp;geocoder/geocoder-1.0.0.jar"/>
+	<classpathentry kind="lib" path="D:/Program Files/Eclipse/DENG/MISOproject/MISO(feat.DENG)/MISO(feat.DENG)/jar/JSON&amp;geocoder/json-simple-1.1.1.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

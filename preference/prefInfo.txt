@@ -1,0 +1,8 @@
+dic:Daum
+enc:Wikipedia
+img:Naver
+trs:Naver
+map:Google
+video:Youtube
+hot:162,65,83
+ocr:83
